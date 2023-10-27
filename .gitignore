@@ -163,5 +163,5 @@ Temporary Items
 
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,java,intellij+all,macos
 
-build/
-Cinema Room Manager (Kotlin)/task/build
+build/*
+**/task/*
